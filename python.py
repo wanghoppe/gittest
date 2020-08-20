@@ -9,6 +9,3 @@ def func1():
 
 def p1():
     pass
-
-def p2():
-    pass
