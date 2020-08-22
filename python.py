@@ -12,7 +12,8 @@ def func1():
     print("this is func1")
 
 def mid2():
-    pass
+    for k,v in enumerate([1,2,3,4]):
+        print(k, v)
 
 def ap2():
     pass
