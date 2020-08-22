@@ -15,5 +15,8 @@ def mid2():
 def ap2():
     pass
 
+def t2():
+    pass
+
 def p2():
     pass
