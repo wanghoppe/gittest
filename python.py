@@ -3,6 +3,7 @@ import os
 print('this is a python file')
 abc
 x
+y
 
 def func1():
     a = 1
