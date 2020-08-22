@@ -2,7 +2,6 @@ import os
 
 print('this is a python file')
 abc
-x
 
 def func1():
     a = 1
