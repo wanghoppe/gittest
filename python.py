@@ -4,6 +4,8 @@ print('this is a python file')
 abc
 x
 y
+1
+2
 
 def func1():
     a = 1
